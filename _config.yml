@@ -1,0 +1,22 @@
+# Setup
+title:               Data Science Project on Ice Hockey
+tagline:             'An insightful analysis of Ice Hockey'
+description:         'Using the <a href="https://gitlab.com/dword4/nhlapi" target="_blank">NHL stats API</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:                 ''
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Jizhou Wang
+  url:               https://github.com/jawing/
+  email:             jizhou.wang@mila.quebec
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
