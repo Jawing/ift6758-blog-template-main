@@ -23,8 +23,8 @@ author:
     email:             
   qilin:
     name:              Qilin Wang
-    url:               
-    email:             
+    url:                   https://github.com/QilinWang
+    email:               qilin@fastmail.com
 # Gems
 plugins:
   - jekyll-paginate
